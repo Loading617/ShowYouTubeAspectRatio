@@ -1,2 +1,2 @@
 # ShowYouTubeAspectRatio
-Show Aspect Ratio on YouTube Video
+Have Aspect Ratio be shown on YouTube Video
