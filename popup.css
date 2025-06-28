@@ -1,41 +1,92 @@
-body{
-    width: 240px;
-    overflow: hidden;
+.showyoutubeaspectratio-logo {
+    width: 100px;
+    height: 100px;
 }
 
-.hidden{
-    display: none;
+.body {
+    width: 200px;
+    height: 300px;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 16px;
 }
 
-.logo{
-    max-width: 40px;
+.title {
+    color: #cd201c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.container{
-    font-size: small;
-    padding: 12px;
+.dN {
+    color: #cd201c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.button-container{
+.rV {
+    color: #cd201c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button-container {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
-    row-gap: 2px;
-    padding: 0 8px;
+    row-gap: 12px;
+    margin-top: 10px;
+    gap: 10px;
 }
 
-.button-container button{
-    flex-grow: 1;
+.rate-button {
+    background-color: #cd201c;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-.logo-button{
-    height: 0;
-    padding: 0;
-    transition: 
-        height 0.2s ease in,
-        margin-bottom 0.2s ease in;
-    overflow: hidden;
-    cursor: default;
-    background: var(--showyoutubeaspectratio-white);
-    color: var(--showyoutubeaspectratio-turquoise);
-    flex-basis: 100%;
+.help-button {
+    background-color: #cd201c;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.settings-button {
+    background-color: #cd201c;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.github-button {
+    background-color: #cd201c;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.changelog-button {
+    background-color: #cd201c;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
