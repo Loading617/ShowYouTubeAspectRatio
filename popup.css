@@ -7,24 +7,24 @@
     width: 200px;
     height: 300px;
     background-color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     text-align: center;
     font-size: 16px;
 }
 
 .title {
     color: #cd201c;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
 }
 
 .cB {
     color: #cd201c;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
 }
 
 .rV {
     color: #cd201c;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
 }
 
 .button-container {
@@ -39,7 +39,7 @@
 .rate-button {
     background-color: #cd201c;
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -50,7 +50,7 @@
 .help-button {
     background-color: #cd201c;
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -61,7 +61,7 @@
 .settings-button {
     background-color: #cd201c;
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -72,7 +72,7 @@
 .github-button {
     background-color: #cd201c;
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -83,11 +83,10 @@
 .changelog-button {
     background-color: #cd201c;
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-
