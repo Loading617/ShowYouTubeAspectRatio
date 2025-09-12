@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "YTUpTime",
+    "name": "ShowYouTubeAspectRatio",
     "version": "1.0",
     "description": "Show the aspect ratio of the current YouTube video.",
     "homepage_url": "https://showyoutubeaspectratio.com",
@@ -29,4 +29,5 @@
         "css": ["css/popup.css"]
       }
     ]
+
   }
