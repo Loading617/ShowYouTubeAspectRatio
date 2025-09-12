@@ -6,24 +6,24 @@
 .body {
     width: 200px;
     height: 300px;
-    background-color: black;
+    background-color: #d6cddf;
     font: 'Lucida Sans';
     text-align: center;
     font-size: 16px;
 }
 
 .title {
-    color: #cd201c;
+    color: #7a4b2a;
     font: 'Lucida Sans';
 }
 
 .cB {
-    color: #cd201c;
+    color: #7a4b2a;
     font: 'Lucida Sans';
 }
 
 .rV {
-    color: #cd201c;
+    color: #7a4b2a;
     font: 'Lucida Sans';
 }
 
@@ -37,8 +37,8 @@
 }
 
 .rate-button {
-    background-color: #cd201c;
-    color: black;
+    background-color: #d6cddf;
+    color: #7a4b2a;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -48,8 +48,8 @@
 }
 
 .help-button {
-    background-color: #cd201c;
-    color: black;
+    background-color: #d6cddf;
+    color: #7a4b2a;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -59,8 +59,8 @@
 }
 
 .settings-button {
-    background-color: #cd201c;
-    color: black;
+    background-color: #d6cddf;
+    color: #7a4b2a;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -70,8 +70,8 @@
 }
 
 .github-button {
-    background-color: #cd201c;
-    color: black;
+    background-color: #d6cddf;
+    color: #7a4b2a;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -81,8 +81,8 @@
 }
 
 .changelog-button {
-    background-color: #cd201c;
-    color: black;
+    background-color: #d6cddf;
+    color: #7a4b2a;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -90,3 +90,4 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
+
