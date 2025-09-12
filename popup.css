@@ -37,8 +37,8 @@
 }
 
 .rate-button {
-    background-color: #d6cddf;
-    color: #7a4b2a;
+    background-color: #4b2e14;
+    color: #d6cbbf;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -48,8 +48,8 @@
 }
 
 .help-button {
-    background-color: #d6cddf;
-    color: #7a4b2a;
+    background-color: #4b2e14;
+    color: #d6cbbf;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -59,8 +59,8 @@
 }
 
 .settings-button {
-    background-color: #d6cddf;
-    color: #7a4b2a;
+    background-color: #4b2e14;
+    color: #d6cbbf;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -70,8 +70,8 @@
 }
 
 .github-button {
-    background-color: #d6cddf;
-    color: #7a4b2a;
+    background-color: #4b2e14;
+    color: #d6cbbf;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -81,8 +81,8 @@
 }
 
 .changelog-button {
-    background-color: #d6cddf;
-    color: #7a4b2a;
+    background-color: #4b2e14;
+    color: #d6cbbf;
     font: 'Lucida Sans';
     padding: 10px 20px;
     border: none;
@@ -90,4 +90,3 @@
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
-
