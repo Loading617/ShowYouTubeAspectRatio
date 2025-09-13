@@ -26,6 +26,16 @@ function injectAspectRatioToSearch() {
   });
 }
 
+function waitForElement(selector, callback) {
+  const interval = setInterval(() => {
+    const elem = document.querySelector(selector);
+    if (elem) {
+      clearInterval(interval);
+      callback(elem);
+    }
+  }, 500);
+}
+
 function injectAspectRatioToDescription() {
   const viewElem = document.querySelector('span.view-count');
   if (!viewElem || document.getElementById('aspect-inline')) return;
